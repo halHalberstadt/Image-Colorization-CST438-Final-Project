@@ -9,3 +9,6 @@
 
 # Ignore ipynb checkpoint files
 .ipynb_checkpoints
+
+# Ignore Workspace files
+*.code-workspace
