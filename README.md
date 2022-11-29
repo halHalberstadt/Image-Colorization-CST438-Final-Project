@@ -1,5 +1,5 @@
 # Image-Colorization-CST438-Final-Project
-Final project for CST438 at CSUM
+Final project for CST438 at CSUMB
 
 ## Group members:
 - [Aret Tinoco]()
