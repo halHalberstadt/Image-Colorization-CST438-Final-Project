@@ -2,7 +2,7 @@
 Final project for CST438 at CSUMB
 
 ## Group members:
-- [Aret Tinoco]()
+- [Aret Tinoco](https://github.com/aretinoco)
 - [Keshav Gupta](https://github.com/keshavg09)
 - Hal Halberstadt
 
